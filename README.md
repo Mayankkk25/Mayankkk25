@@ -42,7 +42,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vikram-353&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Mayankkk25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Vikram-353&color=blue)
